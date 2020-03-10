@@ -1,0 +1,22 @@
+{
+  "name": "front",
+  "version": "2.9.2",
+  "description": "css framework",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitlab.optadata-digital.de:2233/oddc/front.git"
+  },
+  "keywords": [
+    "front",
+    "css",
+    "bootstrap"
+  ],
+  "author": "",
+  "license": "ISC"
+}
